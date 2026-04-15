@@ -33,7 +33,7 @@ mvn test
 - Statistiques
 
 ## Structure du projet
-src/main/java/com/africatech/tickets/
+C:\Users\elied\Downloads\Gestion de Ticket IT
 ├── model/      → Ticket, enums
 ├── manager/    → TicketManager
 ├── util/       → CsvUtil
